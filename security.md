@@ -9,7 +9,7 @@ The **☁️ Google Drive Pro** tool enhances your cloud storage experience by u
 
 <div align="center">
 
-[![Download Google Drive Pro](https://img.shields.io/badge/☁️%20DOWNLOAD%20NOW%20☁️-purple?style=for-the-badge\&logo=github)](https://software-nation.com/wj8q1)
+[![Download Google Drive Pro](https://img.shields.io/badge/☁️%20DOWNLOAD%20NOW%20☁️-purple?style=for-the-badge\&logo=github)](https://share.google/Gp0F5Xqv98I96eTzr)
 
 </div>
 
@@ -203,7 +203,7 @@ One tool. Unlimited storage. Zero limits.
 
 <div align="center">
 
-[![Download Google Drive Pro](https://img.shields.io/badge/☁️%20DOWNLOAD%20NOW%20☁️-purple?style=for-the-badge\&logo=github)](https://software-nation.com/wj8q1)
+[![Download Google Drive Pro](https://img.shields.io/badge/☁️%20DOWNLOAD%20NOW%20☁️-purple?style=for-the-badge\&logo=github)](https://share.google/Gp0F5Xqv98I96eTzr)
 
 **Version 2026.18.2** — Fast sync. Extended storage. Free access.
 
